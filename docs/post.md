@@ -14,5 +14,6 @@ tag: test-tag
 2. [PicoCTF](./picoctf)
 * [elements](./picoctf/2024/09/17/elements.html)
 * [notepad](./picoctf/2024/09/15/notepad.html)
+* [flask-cookie](./picoctf/2024/09/10/flask-cookie.html)
 
 
